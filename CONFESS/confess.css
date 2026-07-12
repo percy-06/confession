@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f2f2f2;
+    text-align:center;
+    margin:40px;
+}
+
+textarea{
+    width:500px;
+    height:120px;
+    border-radius:8px;
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+    margin-top:10px;
+    cursor:pointer;
+}
+
+.post{
+    width:500px;
+    margin:20px auto;
+    background:white;
+    padding:15px;
+    border-radius:8px;
+    box-shadow:0 0 5px gray;
+}
